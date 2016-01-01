@@ -587,8 +587,9 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Create some space to the right for the share links */
 .post-footer .author {
-    margin-right: 180px;
+    margin-right: 150px;
 }
+
 
 /* Drop the share links in the space to the right.
    Doing it like this means it's easier for the author bio
@@ -1028,6 +1029,10 @@ pre .chunk {
     h4 {
         font-size: 2.8rem;
     }
+    
+     .post-footer .author .author-picture img{
+       display: none;
+    }
 
 }
 
@@ -1127,6 +1132,29 @@ pre .chunk {
         font-size: 1.1rem;
     }
 
+}
+
+
+/* ==========================================================================
+   Media Queries - Bigger than 900px 
+   ========================================================================== */
+
+@media only screen and (min-width : 900px) {
+    .post-footer .author .author-picture{
+        width: 20%;
+        float: left;
+    }
+
+    .post-footer .author .author-picture img{
+        border-radius: 50%;
+        width: 90%;
+        margin-top: 20%;
+    }
+
+    .post-footer .author .author-bio{
+        width: 80%;
+        float: left;
+    }
 }
 
 /* ==========================================================================
