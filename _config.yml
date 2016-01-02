@@ -69,5 +69,5 @@ theme: casper
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
       type: git
-      repository: https://github.com/dbailo1988/dbailo1988.github.com.git
-      branch: master
+      repository: git@github.com:dbailo1988/dbailo1988.github.com.git
+      branch: deployment
