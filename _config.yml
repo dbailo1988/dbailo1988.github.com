@@ -70,4 +70,4 @@ theme: casper
 deploy:
       type: git
       repository: git@github.com:dbailo1988/dbailo1988.github.com.git
-      branch: deployment
+      branch: master
