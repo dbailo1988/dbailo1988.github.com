@@ -2,12 +2,12 @@ title: Why did I start a technical blog?
 date: 2016-01-10 17:31:39
 tags:
 ---
-I am writing this post because I would like to expound the main reasons why I started a technical blog. I want to focus in the two most important aspects in my opinion. First of all, I will explain why it is important to write your thoughts. Secondly, I will go about the social part and not being a Ghost Developer. 
+I am writing this post because I would like to explain the main reasons why I started a technical blog. I want to focus on the two most important aspects in my opinion. First of all, I will explain why it is important to write your thoughts. Secondly, I will go about the social part of not being a Ghost Developer. 
 
 ### Why writing is important?
  
  * **Writing clarifies your thoughts**
- Having the responsability of putting in sentences and structures your knowledge is a fight. When you have to explain an idea, you might realise you did not have that clear the expertise on it. Just as a fact, I was having breakfast with [Chris Heilmann](https://www.christianheilmann.com/) one day, he stated that when he started his first book on JavaScript after being 5 years being a JavaScript developer. He noticed how little he knew about the language.
+ Having the responsability of putting in sentences and structures your knowledge is a fight. When you have to explain an idea, you might realise you did not have that clear the expertise on it. Just as a fact, I was having breakfast with [Chris Heilmann](https://www.christianheilmann.com/) one day, he stated that when he started his first book on JavaScript after being a JavaScript developer for five years, he noticed how little he really knew about the language.
  
  * **Writing will improve your language skills**
  In my case, the blog's language is English and as a native Spanish speaker I have long way to go to improve my English. I like to challenge myself and I completely hate to use always the same words for expressing my ideas. So writing will force me to start using more vocabulary. Also, I hope to get better at structuring text.
@@ -21,14 +21,14 @@ I am writing this post because I would like to expound the main reasons why I st
 ### Be social, don't be a ghost developer
  
  I think that the biggest motivation for me to start the blog was not become a [Ghost Developer](http://www.troyhunt.com/2013/02/the-ghost-who-codes-how-anonymity-is.html).
- Nowadays there are lots of developers who do a good job, go everyday happily to their jobs, they are back home when the day is over and no one on the internet know what are they doing. I felt a bit like this when I attended my first conference. In that moment, I thought that I should do something to change this. First conference day, I immediately started my [Twitter](https://twitter.com/bailodev) account.
+ Nowadays there are lots of developers who do a good work, go everyday happily to their jobs, they are back home when the day is over and no one on the internet know what they are doing. I felt a bit like this when I attended my first conference. In that moment, I thought that I should do something to change this. First conference day, I immediately started my [Twitter](https://twitter.com/bailodev) account.
  How being active in social networks can help you?
  
  * **Broaden your relations**
- When you discuss topics relevant to your field in social networks, you have the opportunity to know the best experts in your field. Overmore, in networks like Twitter or Disqus you can even reach these experts so easily.
+ When you discuss topics relevant to your field in social networks, you have the opportunity to know the best experts in your field. Moreover, in networks like Twitter or Disqus you can even reach these experts so easily.
  
  * **Improve your career**
- Today, every developer has a CV explaining their previous job and what they have achieved. What makes you different from the rest? Does your name even appear on the internet? Every employer will look for your name on the internet. Being active in [Github](https://github.com/dbailo1988), having an opinion on Twitter, some highlights comments on StackOverflow, stating your point on Disqus and so on. Doing this will make you stand out. I am not stating that a typical ghost developer would be unemployable. But for sure, it will be easier for a person who has been active.
+ Today, every developer has a CV explaining their previous job positions and what they have achieved. What makes you different from the rest? Does your name even appear on the internet? Every employer will look for your name on the internet. Being active in [Github](https://github.com/dbailo1988), having an opinion on Twitter, some highlights comments on StackOverflow, stating your point on Disqus and so on. Doing this will make you stand out. I am not stating that a typical ghost developer would be unemployable. But for sure, it will be easier for a person who has been active.
  
  * **Being social shows your motivation**
 When you are spending part of your free time in social networks, you are already showing to the world that you have an extra interest for what you are doing and that you like and enjoy it.
