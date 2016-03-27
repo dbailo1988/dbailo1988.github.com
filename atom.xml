@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Daniel Bailo</title>
+  <subtitle>Blog about my experience in technology and working life</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://danielbailo.com/"/>
+  <updated>2016-03-27T10:40:49.181Z</updated>
+  <id>http://danielbailo.com/</id>
+  
+  <author>
+    <name>Daniel Bailo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Communications in a global company</title>
+    <link href="http://danielbailo.com/Communications-in-a-global-company/"/>
+    <id>http://danielbailo.com/Communications-in-a-global-company/</id>
+    <published>2016-03-27T09:30:25.000Z</published>
+    <updated>2016-03-27T10:40:49.181Z</updated>
+    
+    <content type="html">&lt;p&gt;At the beginning of March, I was flown by my company, &lt;a href=&quot;www.kiosked.com&quot;&gt;Kiosked&lt;/a&gt;, to Los Angeles. Kiosked is a global company with a finnish soul. We have offices around the world and in really different time zones. The main purpose of my trip was to speed up a project but meanwhile I learned many other aspects of the company. &lt;/p&gt;
+&lt;p&gt;Without noticing I felt a bit as a Finnish office’s embassador in the LA office. The company has been started in Finland and we have a strong and awesome culture. So I felt my role was also to spread this culture and atmosphere to the office in the West Coast of the USA. &lt;/p&gt;
+&lt;p&gt;Since the very first time in LA office, I noticed how difficult it was going to be the communications across the offices. As a anecdote, my first day I wanted to contact one of my colleagues in Finland and I realised that when I was starting my work day, they would be already out of the office time in the evening. I think it’s a fact that everyone knows by theory about the time zones but when you suffer them for real, it is when you understand is an issue to tackle. &lt;/p&gt;
+&lt;p&gt;But the time zones are not the only problem for communications when you have different offices. When you have a fast-paced growing company, new employees are joining every other week, email chains sometimes are just noise and the person who could help the better is not even there, not knowing to whom you are talking sometimes can produce misunderstandings and so on.&lt;/p&gt;
+&lt;p&gt;Therefore, I love the investment that Kiosked is doing flying people through the offices to improve the internal communications. When you get to know the person you are sending emails on daily basis, everything changes. Sharing time with your colleagues from different offices help you to understand their daily needs. It’s pretty useful also for aligning targets and knowing what could be improve to have our comms in better shape. At the end, we all are in the same boat, and we should row in the same direction. In the same way, there is a idiom which say &lt;em&gt;“A picture is worth thousand words”&lt;/em&gt;, I would state &lt;em&gt;“A face to face chat is worth a thousand emails”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, what I would like to remark the importance of being proactive when it goes to our duties. Sometimes it is not just about finishing our work and that’s it. Everyone should follow up, thinking on the big picture, who is going to use what you did, and if the person will know how to use it. Just stretching our roles a bit, the communications will work better.&lt;/p&gt;
+&lt;p&gt;To sum up, I want to say that I am so glad about the opportunity to go to Los Angeles office, my learning about different facets of the company has been great. Happy to say that we have awesome people on board.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;At the beginning of March, I was flown by my company, &lt;a href=&quot;www.kiosked.com&quot;&gt;Kiosked&lt;/a&gt;, to Los Angeles. Kiosked is a global company 
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Why did I start a technical blog?</title>
+    <link href="http://danielbailo.com/Why-did-I-start-a-technical-blog/"/>
+    <id>http://danielbailo.com/Why-did-I-start-a-technical-blog/</id>
+    <published>2016-01-10T15:31:39.000Z</published>
+    <updated>2016-01-11T17:54:45.728Z</updated>
+    
+    <content type="html">&lt;p&gt;I am writing this post because I would like to explain the main reasons why I started a technical blog. I want to focus on the two most important aspects in my opinion. First of all, I will explain why it is important to write your thoughts. Secondly, I will go about the social part of not being a Ghost Developer. &lt;/p&gt;
+&lt;h3 id=&quot;Why_writing_is_important_3F&quot;&gt;&lt;a href=&quot;#Why_writing_is_important_3F&quot; class=&quot;headerlink&quot; title=&quot;Why writing is important?&quot;&gt;&lt;/a&gt;Why writing is important?&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Writing clarifies your thoughts&lt;/strong&gt;&lt;br&gt;Having the responsability of putting in sentences and structures your knowledge is a fight. When you have to explain an idea, you might realise you did not have that clear the expertise on it. Just as a fact, I was having breakfast with &lt;a href=&quot;https://www.christianheilmann.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Chris Heilmann&lt;/a&gt; one day, he stated that when he started his first book on JavaScript after being a JavaScript developer for five years, he noticed how little he really knew about the language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Writing will improve your language skills&lt;/strong&gt;&lt;br&gt;In my case, the blog’s language is English and as a native Spanish speaker I have long way to go to improve my English. I like to challenge myself and I completely hate to use always the same words for expressing my ideas. So writing will force me to start using more vocabulary. Also, I hope to get better at structuring text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Writing as a therapy&lt;/strong&gt;&lt;br&gt;When you are writing, you have to be concentrated. Therefore, during the writing time, you will not be thinking about other problems. Personally, my daily job is far from writing so since it is a different activity, I guess it will help me to evade myself.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Writing will force you to read&lt;/strong&gt;&lt;br&gt;When you are writing about an idea, you first will have to read a bit about the topic, look for different approaches and finally make your idea clear. In this sense, it is a good practice because it keeps you updated on the topics you want to write about.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Be_social_2C_don_u2019t_be_a_ghost_developer&quot;&gt;&lt;a href=&quot;#Be_social_2C_don_u2019t_be_a_ghost_developer&quot; class=&quot;headerlink&quot; title=&quot;Be social, don’t be a ghost developer&quot;&gt;&lt;/a&gt;Be social, don’t be a ghost developer&lt;/h3&gt;&lt;p&gt; I think that the biggest motivation for me to start the blog was not become a &lt;a href=&quot;http://www.troyhunt.com/2013/02/the-ghost-who-codes-how-anonymity-is.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ghost Developer&lt;/a&gt;.&lt;br&gt; Nowadays there are lots of developers who do a good work, go everyday happily to their jobs, they are back home when the day is over and no one on the internet know what they are doing. I felt a bit like this when I attended my first conference. In that moment, I thought that I should do something to change this. First conference day, I immediately started my &lt;a href=&quot;https://twitter.com/bailodev&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Twitter&lt;/a&gt; account.&lt;br&gt; How being active in social networks can help you?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Broaden your relations&lt;/strong&gt;&lt;br&gt;When you discuss topics relevant to your field in social networks, you have the opportunity to know the best experts in your field. Moreover, in networks like Twitter or Disqus you can even reach these experts so easily.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Improve your career&lt;/strong&gt;&lt;br&gt;Today, every developer has a CV explaining their previous job positions and what they have achieved. What makes you different from the rest? Does your name even appear on the internet? Every employer will look for your name on the internet. Being active in &lt;a href=&quot;https://github.com/dbailo1988&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github&lt;/a&gt;, having an opinion on Twitter, some highlights comments on StackOverflow, stating your point on Disqus and so on. Doing this will make you stand out. I am not stating that a typical ghost developer would be unemployable. But for sure, it will be easier for a person who has been active.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Being social shows your motivation&lt;/strong&gt;&lt;br&gt;When you are spending part of your free time in social networks, you are already showing to the world that you have an extra interest for what you are doing and that you like and enjoy it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having said this, everyone can stop being a “Ghost developer” and give some knowledge back to the community and have an opinion on the different topics.&lt;/p&gt;
+&lt;p&gt;At the moment,  I am doing a short course on &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Promises&lt;/a&gt; so I hope that my next post is already a bit more about coding.&lt;/p&gt;
+&lt;p&gt;If you’re still with me, thanks for reading and share it if you liked it :)&lt;/p&gt;
+&lt;h4 id=&quot;Sources&quot;&gt;&lt;a href=&quot;#Sources&quot; class=&quot;headerlink&quot; title=&quot;Sources&quot;&gt;&lt;/a&gt;Sources&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/dont-be-a-ghost-coder-how-to-make-social-media-wor-1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DZone.com&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://medium.com/@vjeux/start-a-technical-blog-2f5ed7c6f34f#.w1ib9chbu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vjeux&lt;/a&gt; &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I am writing this post because I would like to explain the main reasons why I started a technical blog. I want to focus on the two most i
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>New year resolutions</title>
+    <link href="http://danielbailo.com/New-year-resolutions/"/>
+    <id>http://danielbailo.com/New-year-resolutions/</id>
+    <published>2016-01-01T23:01:46.000Z</published>
+    <updated>2016-01-03T19:05:11.521Z</updated>
+    
+    <content type="html">&lt;p&gt;This time of the year every other person is planning his personal new year resolutions. Sometimes they are on health, new achievements, quitting bad habits or starting a new  discipline.&lt;/p&gt;
+&lt;p&gt;I want to state publicly my new year resolutions so I will feel guilty if I do not accomplish them.&lt;/p&gt;
+&lt;h3 id=&quot;My_resolutions_for_2016&quot;&gt;&lt;a href=&quot;#My_resolutions_for_2016&quot; class=&quot;headerlink&quot; title=&quot;My resolutions for 2016&quot;&gt;&lt;/a&gt;My resolutions for 2016&lt;/h3&gt;&lt;p&gt;I will list just the ones I want to give priority.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Start a blog&lt;/strong&gt;&lt;br&gt;And here I am, I want to start my own blog and post regularly on my days at work, learnings on new technologies and my point of view in emerging ones. Basically, as I stated in the description, I will write about my working life and technology which in my humble opinion it is pretty large area of discussion &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Run my first race&lt;/strong&gt;&lt;br&gt;I have never run a proper race but I have been thinking about it since long time ago and after discussing with different friends, I have decided to register to &lt;a href=&quot;http://www.helsinkicityrun.fi/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Helsinki City Run&lt;/a&gt;.Now I have to start preparing for the race properly, which means forcing myself to run outside even in the cold Helsinki winter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Puhutaan suomea&lt;/strong&gt;&lt;br&gt;I have been already over 4 years in Finland, so I will try to make it an action point to talk Finnish whenever I can. My resolution is not about being fluent by the next year, but I definitely need to start talking Finnish more if I want to make progress with this language&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I wanted to keep this post short since it is more on the personal side. I guess there is nothing more to say than say than “Hello internet, hopefully we have a new blogger now!”.&lt;/p&gt;
+&lt;h3 id=&quot;tldr_3B&quot;&gt;&lt;a href=&quot;#tldr_3B&quot; class=&quot;headerlink&quot; title=&quot;tldr;&quot;&gt;&lt;/a&gt;tldr;&lt;/h3&gt;&lt;p&gt;Planning my new year resolutions, write regularly in my blog, run the Helsinki City Run and keep practicing Finnish.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This time of the year every other person is planning his personal new year resolutions. Sometimes they are on health, new achievements, q
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
